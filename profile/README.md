@@ -20,6 +20,8 @@
     - 接口=Api
     - APP=APP、AndroidApp、IosApp
     - 微信小程序=WXMP
+    - 支付宝小程序=ZFBMP
+    - 支付宝、微信等公用小程序=MP
     - H5端=H5
     - 管理后台=Admin
     - 页面前台=Web
@@ -42,3 +44,4 @@
 - 微信小程序主框架：
   - SQC.JMXQ.WXMP.Main
   - SQC.JMXQ.WXMP.GameXXL     消消乐游戏
+  - SQC.
