@@ -25,6 +25,7 @@
     - H5端=H5
     - 管理后台=Admin
     - 页面前台=Web
+    - 小游戏=Game
 - 第四段：
       主要的=Main
       扩展的=XXXExt，例如AiExt，默认的扩展H5Ext等
